@@ -1,0 +1,6 @@
+{
+  "name": "EliteProctorPrep - US Nursing Exam Prep & Question Bank",
+  "description": "Master your NCLEX-RN, NCLEX-PN, TEAS, ATI, and HESI exams with EliteProctorPrep. Comprehensive US nursing practice questions, detailed rationales, and real-time readiness analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
